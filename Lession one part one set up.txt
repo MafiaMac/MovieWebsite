@@ -1,0 +1,49 @@
+hello there and welcome
+
+today's lesson is about setting up a html and css file
+and if we have enough time we are gonna work on the navigation
+tab so lets get into coding!
+
+First we are gonna go and create a file for our website so am gonna name the
+file (mariogamer) now once we made a folder we are gonna make a css folder
+inside of the folder and then go on to our coding software (i recommand Visual studio code)
+
+now we are gonna create a file and name it (index.html) index as in the main page
+so after making a index file we are gonna make a (css) folder and then make
+(style.css) file (please make sure the files are name style.css and index.html with no
+uppercase or you may get into may bugs or problems)
+
+now we are gonna go and create a (images) folder for all the images we are gonna use on our
+site just simply make it inside the website folder and inport your images your gonna
+use in lesson #2 and Done!
+
+Now finally gonna add simple basic html code credits to (@Going-To Internet check him out on YouTube)
+(add custom shortcut and title to the website)
+which is:
+<!--doctype html-->
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Awesome Website HTML</title>
+	<link rel="shortcut icon" href="images/"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<!--using-font-awesome-------->
+	<script src="https://kit.fontawesome.com/c8e4d183c2.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+</body>
+</html>
+
+So now we got our html basic code setup we are gonna add aswell css code
+heres there basic css code credits again to (@Going-To Internet):
+
+body{
+	margin:0px;
+	padding:0px;
+	font-family: calibri;
+}
+
+So congrats we have set up our website's folder and code
